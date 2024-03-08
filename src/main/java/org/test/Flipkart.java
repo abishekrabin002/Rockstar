@@ -7,6 +7,10 @@ public class Flipkart {
 		System.err.println("before git install");
 
 		System.out.println("pull from  master");
+		
+		System.out.println("abishek");
+		System.out.println("divya");
+		System.out.println("praveen");
 
 		
 	}
